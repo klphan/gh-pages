@@ -98,3 +98,8 @@ img.news {
 		height:300px;
 }
 
+div.caption {
+    font-size: 80%;
+    text-align: center; 
+    color: #4e6384;
+}
