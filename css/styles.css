@@ -17,7 +17,9 @@ p {
 	margin: 10px;
 }
 #p01 {
-	border: 1px solid green;
+    background-color:#42f4b6; 
+    font-color: grey;
+	border: 1px solid black;
 }
 
 /* Dropdown Button */
